@@ -1,0 +1,19 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: life-mission
+- file: big-questions
+- file: money-tax-law
+- file: spirituality
+- file: isolation-tank
+- file: sacred-sexuality
+- file: body-mind
+- file: self-and-other
+- file: sports-and-gaming
+- file: dancing
+- file: comedy
+
+
