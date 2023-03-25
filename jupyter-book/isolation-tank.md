@@ -1,3 +1,5 @@
+# The Isolation Tank and Floatation Tank
+
 I have always loved the isolation tank because it is meditation that works. 
 
 My websites related to the isolation tank are:
