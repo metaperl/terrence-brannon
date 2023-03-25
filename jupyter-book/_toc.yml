@@ -4,16 +4,16 @@
 format: jb-book
 root: intro
 chapters:
-- file: life-mission
-- file: big-questions
-- file: money-tax-law
-- file: spirituality
-- file: isolation-tank
-- file: sacred-sexuality
-- file: body-mind
-- file: self-and-other
-- file: sports-and-gaming
-- file: dancing
-- file: comedy
+  - file: et-cetera
+  - file: life-mission
+  - file: money-tax-law
+  - file: spirituality
+  - file: isolation-tank
+  - file: sacred-sexuality
+  - file: body-mind
+  - file: self-and-other
+  - file: sports-and-gaming
+  - file: dancing
+  - file: comedy
 
 
