@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: TerrenceBrannon.com - overview of all things Terrence Brannon
-author: Terrence-Monroe: Brannon
+author: Terrence Monroe Brannon
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
